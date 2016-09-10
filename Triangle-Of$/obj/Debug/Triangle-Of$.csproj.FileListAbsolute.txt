@@ -1,0 +1,6 @@
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Triangle-Of$\bin\Debug\Triangle-Of$.exe.config
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Triangle-Of$\bin\Debug\Triangle-Of$.exe
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Triangle-Of$\bin\Debug\Triangle-Of$.pdb
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Triangle-Of$\obj\Debug\Triangle-Of$.csprojResolveAssemblyReference.cache
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Triangle-Of$\obj\Debug\Triangle-Of$.exe
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Triangle-Of$\obj\Debug\Triangle-Of$.pdb

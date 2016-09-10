@@ -1,0 +1,6 @@
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Fortress\bin\Debug\Fortress.exe.config
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Fortress\obj\Debug\Fortress.csprojResolveAssemblyReference.cache
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Fortress\bin\Debug\Fortress.exe
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Fortress\bin\Debug\Fortress.pdb
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Fortress\obj\Debug\Fortress.exe
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Fortress\obj\Debug\Fortress.pdb

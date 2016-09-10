@@ -1,0 +1,5 @@
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\ReverseTriangle\bin\Debug\ReverseTriangle.exe.config
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\ReverseTriangle\bin\Debug\ReverseTriangle.exe
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\ReverseTriangle\bin\Debug\ReverseTriangle.pdb
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\ReverseTriangle\obj\Debug\ReverseTriangle.exe
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\ReverseTriangle\obj\Debug\ReverseTriangle.pdb

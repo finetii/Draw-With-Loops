@@ -1,0 +1,6 @@
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Square-Of-Stars\bin\Debug\Square-Of-Stars.exe.config
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Square-Of-Stars\bin\Debug\Square-Of-Stars.exe
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Square-Of-Stars\bin\Debug\Square-Of-Stars.pdb
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Square-Of-Stars\obj\Debug\Square-Of-Stars.csprojResolveAssemblyReference.cache
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Square-Of-Stars\obj\Debug\Square-Of-Stars.exe
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\Square-Of-Stars\obj\Debug\Square-Of-Stars.pdb

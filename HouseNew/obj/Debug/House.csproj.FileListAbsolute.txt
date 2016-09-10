@@ -1,0 +1,3 @@
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\HouseNew\bin\Debug\HouseNew.exe.config
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\HouseNew\obj\Debug\HouseNew.exe
+C:\Users\fina.meranzova\Documents\Visual Studio 2015\Projects\Draw-With-Loops\HouseNew\obj\Debug\HouseNew.pdb
